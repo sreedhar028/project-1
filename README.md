@@ -1,4 +1,4 @@
-# Online Retail Analytics Dashboard
+# Online Retail  CEO Analytics Dashboard
 
 ## Project Overview
 
@@ -56,9 +56,7 @@ This dashboard processes retail transaction data containing:
 - Pricing data
 - Timestamp information
 
-# Online Retail Analytics Platform
-
-![Dashboard Preview](dashboard_preview.png)
+# Online Retail  CMO Analytics Platform
 
 ## Executive Summary
 
